@@ -5,6 +5,7 @@ __pycache__/
 *.db
 *.dat
 *.zip
+*.docx
 .ipynb_checkpoints/
 .env/
 data/
