@@ -1,12 +1,22 @@
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-*.db
+# Data files
+data/
+*.csv
+*.tsv
+
+# Model files
+ml-1m/
 *.dat
 *.zip
-*.docx
+
+# Jupyter checkpoints
 .ipynb_checkpoints/
-.env/
-data/
-ml-1m/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Env files
+.env
+
+# Logs
+*.docx
