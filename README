@@ -1,0 +1,12 @@
+This Project uses the 1M dataset from MovieLens.
+The dataset contains almost a million reviews from different users.
+The link for the dataset is given below:
+https://files.grouplens.org/datasets/movielens/ml-1m.zip
+
+======================================================================
+All the nessary libraries and pre-requisites to create this Project are given in Prerequisites.txt file.
+
+======================================================================
+This Project is open soure and free for use.
+More modifications will soon be done including a GUI for users.
+Signing off- Shubham Pandey

@@ -1,0 +1,38 @@
+**Python**
+variables, functions, lists, dict, loops & conditionals, OOPs
+
+<====================================================================================================================>
+
+**Libraries**:
+pandas- Data loading, preprocessing
+numpy- Numerical operations
+matplotlib / seaborn- Data visualization
+scikit-learn- TF-IDF, cosine similarity
+surprise- Collaborative filtering (SVD, KNN)
+jupiter- Running and organizing code
+
+*Use
+<pip install pandas numpy scikit-learn scikit-surprise jupyter matplotlib seaborn>
+*
+
+<====================================================================================================================>
+
+**ML and data analytics skills used**:
+Content-based Filtering- Recommends movies similar to a movie using genres or title info.
+Collaborative filtering(vectors, matrices, dot product, Matrix Decomposition(SVD))- Recommends movies similar to a movie using genres or title info.
+Hybrid- Both
+
+Similarity metrics(cosine similarity, Pearson correlation)
+Matric factorixation(SVD)
+Evaluation metrics: RMSE, MAE(for collaborative)
+
+file handling(.dat, csv)
+Dataframes
+Handling missing/duplicate values(data preprocessing)
+
+<====================================================================================================================>
+
+**Dataset(MovieLens 1M Dataset)**
+movies.dat- MovieID::Title::Genres
+ratings.dat- UserID(between 1 and 6040)::MovieID(between 1 and 3952)::Rating(1-5)::Timestamp(sec)
+users.dat- UserID::Gender::Age::Occupation::Zip-code
